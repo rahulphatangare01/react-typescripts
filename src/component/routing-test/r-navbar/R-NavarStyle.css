@@ -1,0 +1,14 @@
+.container {
+  background-color: gray;
+  color: black;
+  height: 60px;
+}
+
+.ul-tag {
+  display: flex;
+  align-items: center;
+}
+
+.container > Link {
+  margin-left: 100px !important;
+}
